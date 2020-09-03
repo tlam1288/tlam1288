@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Tim! I'm a recent graduate of the UCSD Full Stack Development Bootcamp. I'm an aspiring front end developer with a passion for constant learning.
+I'm Tim! I'm a recent graduate of the UCSD Full Stack Development Bootcamp. I'm an aspiring front end developer with a passion for creating and a strong belief in responsive designs.
 
-[Check out my portfolio!](tlam1288.github.io/react-portfolio/)
+[Check out my portfolio!](https://tlam1288.github.io/Portfolio/)
 
 #### **My Expanding list of languages/applications:**
 
