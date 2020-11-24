@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi there I'm Tim! 👋
 
-I'm Tim! 
 
-[Check out my portfolio!](https://tlam1288.github.io/Portfolio/)
+#### **I'm a Full Stack Developer**
 
-#### **My Expanding list of languages/applications:**
-
-HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, Mongo, Mongoose, React, Git + more to come!
+💻 HTML | CSS3 | Bootstrap | JavaScript(ES6) | jQuery | Node.js | Express.js | MySQL | MongoDB | Mongoose | React| Git| + more to come!
 
 #### **Some of my projects**
 
@@ -14,9 +11,11 @@ HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, Mongo, Mongo
 - 🍞 [CookBook](https://github.com/mandisareed/cookbook)
 - 🍔 [Burger Eater](https://github.com/tlam1288/Burger-Eater)
 
+[Check out my portfolio!](https://tlam1288.github.io/Portfolio/)
+
 #### **Fun Fact**
 
-⚡ Fun fact: Weightlifting is a passion of mine. I'm a certified personal trainer!
+⚡ Fun fact: Weightlifting is a passion of mine. I'm a certified personal trainer so I love setting goals and achieving them!
 
 #### **How to reach me**
 
