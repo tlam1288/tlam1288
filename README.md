@@ -11,6 +11,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, Mongo, Mongo
 #### **Some of my projects**
 
 - 🚀 [SpaceBook](https://github.com/jessicablank/spacebook-mars)
+- 🍞 [CookBook](https://github.com/mandisareed/cookbook)
 - 🍔 [Burger Eater](https://github.com/tlam1288/Burger-Eater)
 
 #### **Fun Fact**
